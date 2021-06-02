@@ -1,12 +1,10 @@
 ### Hello World 👋
 
-I'm Gayathri from India, and I do content on Design and Development. 
-I really enjoy learning languages and framework like Vue. 
-You can reach me [Email] gayathri.p973@gmail.com
-
-
 <h1 align="center">Hi 👋, I'm Gayathri</h1>
 <h3 align="center">Design and Development</h3>
+ I do content on Design and Development. 
+I really enjoy learning languages and framework like Vue. 
+You can reach me [Email] gayathri.p973@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayathri-16&label=Profile%20views&color=0e75b6&style=flat" alt="gayathri-16" /> </p>
 
