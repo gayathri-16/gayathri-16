@@ -8,7 +8,9 @@
 
 <h5 align="center"> I do content on Design and Development. 
 I really enjoy learning languages and framework like Vue. 
-You can reach me [Email] gayathri.parvathavarthini@gmail.com </h5>
+You can reach me [Email]
+  
+  <a> gayathri.parvathavarthini@gmail.com</a> </h5>
 
 
 
